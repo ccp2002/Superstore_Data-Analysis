@@ -15,7 +15,7 @@
 
 ### 查看方式
 - **直接下载 .pbix 文件** → 用Power BI Desktop打开即可完整交互体验  
-  [📥 下载Superstore销售分析仪表板.pbix]([Superstore销售分析仪表板.pbix](https://github.com/ccp2002/Superstore_Data-Analysis/raw/refs/heads/main/Superstore%E9%94%80%E5%94%AE%E4%BB%AA%E8%A1%A8%E7%9B%98.pbix))
+  [📥 下载Superstore销售分析仪表板.pbix](./Superstore销售分析仪表板.pbix)
 - 截图预览（点击图片可放大）：
 
 ![整体仪表板](1-整体仪表板.png)
